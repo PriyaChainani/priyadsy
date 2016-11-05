@@ -3,4 +3,26 @@ MIS ID: 141608001
 Description : 
 
 My project is called as "mathfun" i.e maths function, which contains maximum self implemented math.h functions and some new functions.
-When any function is implemented,the usage of every function is mentioned over there.
+I have implemented 18 function of math.h library. They are enlisted below
+1) square
+2) sqrt
+3) cube
+4) cbrtx           
+5) fmod
+6) hypot
+7) Pow
+8) fmax
+9) fmin
+10) fact
+11) abs	
+12) ceilx
+13) floorx
+14) dec_bin
+15) decimal_octal
+16) octal_decimal
+17) binary_octal
+18) octal_binary	
+
+I have created my own test cases. In my test cases, I mentioned input and the expected output. In my main file, this input and expected output is evaluated and if the result is match with the expected output then the test case will pass otherwise fail.
+For completing my project, I have learn many of the new concepts of the maths and taken reference from websites like tutorialspoint for more detailing of the project. 	
+
